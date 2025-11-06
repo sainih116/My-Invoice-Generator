@@ -1,0 +1,5 @@
+{
+  "name": "Modern Invoice Generator",
+  "description": "A sleek and user-friendly invoice generator application. Easily create, customize, and print professional invoices with automatic calculations for totals and taxes. Built with React and Tailwind CSS for a beautiful, responsive experience.",
+  "requestFramePermissions": []
+}
